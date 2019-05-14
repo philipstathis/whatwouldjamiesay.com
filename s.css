@@ -1,0 +1,33 @@
+
+h1 {
+    font-size: 400%;
+    margin-top: 24%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div {
+    position: absolute;
+    right: 0;
+    top: 97%;
+}
+
+.yes {
+    color: red;
+}
+
+.almost {
+    text-align: center;
+    color: lightpink;
+}
+.missed {
+    margin-left: 30%;
+    color: lightpink;
+}
