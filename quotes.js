@@ -19,7 +19,9 @@ const quotes = [
   "(scottish) Take it out back and bash in the head with a saddle",
   "Good riddance to bad rubbish",
   "You really treasury-dev ed that joke",
-  "(☞ ͡° ͜ʖ ͡°)☞"
+  "(☞ ͡° ͜ʖ ͡°)☞",
+  'Yeoman the shit out of teamcity',
+  'Gloooooooooooooooooooorious!!!'
 ];
 
 export default function getQuote() {
