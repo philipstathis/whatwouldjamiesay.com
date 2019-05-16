@@ -22,7 +22,9 @@ const quotes = [
   "(☞ ͡° ͜ʖ ͡°)☞",
   'Yeoman the shit out of teamcity',
   'Gloooooooooooooooooooorious!!!',
-  'This time Anand is a man'
+  'This time Anand is a man',
+  'Some interviewers stay completely silent to see what the candidate says, I just never shut up',
+  'I absolutely love myself a rom com'
 ];
 
 export default function getQuote() {
