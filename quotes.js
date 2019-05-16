@@ -21,7 +21,8 @@ const quotes = [
   "You really treasury-dev ed that joke",
   "(☞ ͡° ͜ʖ ͡°)☞",
   'Yeoman the shit out of teamcity',
-  'Gloooooooooooooooooooorious!!!'
+  'Gloooooooooooooooooooorious!!!',
+  'This time Anand is a man'
 ];
 
 export default function getQuote() {
