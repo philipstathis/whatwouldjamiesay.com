@@ -16,7 +16,7 @@ const quotes = [
   "👎",
   "We should take credit for it",
   "Hello my lovelies!",
-  "(scottish) Take it out back and bash in the head with a saddle",
+  "(scottish) Take it out back and bash in the head with a shovel",
   "Good riddance to bad rubbish",
   "You really treasury-dev ed that joke",
   "(☞ ͡° ͜ʖ ͡°)☞",
